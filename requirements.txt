@@ -1,0 +1,6 @@
+loguru==0.7.2
+numpy==1.24.4
+opencv_contrib_python==4.9.0.80
+opencv_python==4.9.0.80
+py_mini_racer==0.6.0
+Requests==2.32.3
